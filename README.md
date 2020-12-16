@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 ### Skills
-<img align="center" src="https://simpleicons.org/icons/react.svg" />
+<img align="center" src="https://simpleicons.org/icons/react.svg" width="140px" height="140px"/>
 
 
 ---
