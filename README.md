@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I used to Soldier for 5 years in South Korea (I have ridden a tank)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=const-takeo&layout=compact)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=const-takeo)]
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=const-takeo&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=const-takeo" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=const_takeo" />
 </a>
