@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 ### Skills
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" />
 
 
 ---
