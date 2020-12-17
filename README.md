@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 ### Am I ...
 - 🔭 I’m studying in HAL東京 HALTokyo HAL도쿄 college
-- 🌱 I’m currently learning FrontEnd also BackEnd
+- 🌱 I’m currently learning GraphQL
 - 💬 Ask me about anything
 - 📫 How to reach me: const-takeo@gmail.com
 - 🏳️‍🌈 I'm a Korean(Not North😜) lives in Japan, Tokyo
