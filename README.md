@@ -1,4 +1,4 @@
-### Yun Kunwoong👋
+### Hello👋 My name is Yun Kunwoong
 ### My goal is to become a skilled full-stack developer.
 ---
 <!--
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 -->
-### Am I ...
+### I am...
 - 🔭 I’m studying in HAL東京 HALTokyo HAL도쿄 college
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about anything
