@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m studying in HAL東京 HALTokyo HAL도쿄 college
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about anything
-- 📫 How to reach me: const-takeo@gmail.com
+- 📫 How to reach me: const.takeo@gmail.com
 - 🏳️‍🌈 I'm a Korean(Not North😜) lives in Japan, Tokyo
 - ⚡ Fun fact: I used to Soldier for 5 years in South Korea (I have ridden a tank)
 
