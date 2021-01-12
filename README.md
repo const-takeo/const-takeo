@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <img align="center" src="https://simpleicons.org/icons/go.svg" width="50px" height="50px"/> GoLang, 
 <img align="center" src="https://simpleicons.org/icons/python.svg" width="50px" height="50px"/> Python, 
 <img align="center" src="https://simpleicons.org/icons/react.svg" width="50px" height="50px"/> ReactJS, 
-<img align="center" src="https://nestjs.com/img/logo_text.svg" width="100px" height="100px" alt="Nest Logo" />, 
+<img align="center" src="https://simpleicons.org/icons/nestjs.svg" width="50px" height="50px"/> NestJS, 
 <img align="center" src="https://simpleicons.org/icons/graphql.svg" width="50px" height="50px"/> Graphql, 
-<img align="center" src="https://simpleicons.org/icons/nodejs.svg" width="50px" height="50px"/> NodeJS, 
+<img align="center" src="https://simpleicons.org/icons/node-dot-js.svg" width="50px" height="50px"/> NodeJS, 
 ]
 
 
