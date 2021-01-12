@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 ---
 ### Skills
 [<img align="center" src="https://simpleicons.org/icons/react.svg" width="50px" height="50px"/>
-ReactJS, <img align="center" src="https://nestjs.com/img/logo_text.svg" width="100px" height="100px" alt="Nest Logo" />NestJS, ]
+ReactJS, 
+<img align="center" src="https://nestjs.com/img/logo_text.svg" width="100px" height="100px" alt="Nest Logo" />NestJS, 
+<img align="center" src="https://simpleicons.org/icons/typescript.svg" width="50px" height="50px"/>
+Typescript,]
 
 
 ---
